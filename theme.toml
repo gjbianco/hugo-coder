@@ -13,7 +13,6 @@ tags = [
   "personal"
 ]
 features = [
-  "analytics",
   "favicon",
   "pagination",
   "single-column",
